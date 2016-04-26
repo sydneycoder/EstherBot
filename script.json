@@ -4,10 +4,10 @@
     "CHANCE": "Cool! Would you like to know whether you need a permit?",
     "YES": "Great, happy to help. Will your total prize pool be OVER or UNDER $5000?",
     "NO": "Aw, okay. See you later! Say YES though if you've changed your mind",
-    "OVER": "Perfect. You'll need a permit in NSW, ACT and SA for your promotion!"
+    "OVER": "Perfect. You'll need a permit in NSW, ACT and SA for your promotion!",
     "UNDER": "Okay, will it be HIGHER or LOWER than $3000?",
-    "HIGHER": "Perfect. You'll need a permit in NSW and ACT for this promotion!"
-    "LOWER": "Easy. You'll only need a permit in NSW for this promotion!"
+    "HIGHER": "Perfect. You'll need a permit in NSW and ACT for this promotion!",
+    "LOWER": "Easy. You'll only need a permit in NSW for this promotion!",
     "SKILL": "Awesome! Make sure you don't involved any element of chance and you won't require permits",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
