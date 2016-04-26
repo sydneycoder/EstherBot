@@ -3,6 +3,6 @@
     "PROMOTION": "Let's get started, are you running a game of CHANCE or SKILL?",
     "CHANCE": "Cool! Would you like to know whether you need a PERMIT?",
     "PERMIT": "Great, happy to help. Will your total prize pool be OVER or UNDER $5000?"
-    "SKILL" : "Awesome! Make sure you don't involved any element of chance and you won't require permits",
+    "SKILL": "Awesome! Make sure you don't involved any element of chance and you won't require permits",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
